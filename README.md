@@ -1,3 +1,3 @@
 # Under Construction
-## Description:
+## Overview of the project:
 Start writing the description here from this line.
